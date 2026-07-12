@@ -94,11 +94,11 @@ El proyecto está en desarrollo y se está construyendo módulo a módulo.
 
 | Área | Estado |
 | --- | --- |
-| Visión general del curso | En progreso |
-| Introducción a AWS | En progreso |
-| Servicios de computación | En progreso |
-| Servicios de redes | Iniciado |
-| Servicios de almacenamiento | Iniciado |
+| Visión general del curso | Completado |
+| Introducción a AWS | Completado |
+| Servicios de computación | Completado |
+| Servicios de redes | Completado |
+| Servicios de almacenamiento | En progreso |
 | Laboratorios | Pendiente |
 
 ---
@@ -117,7 +117,6 @@ Se recomienda seguir los módulos en orden:
 
 ## Próximos pasos sugeridos
 
-- Completar el módulo de servicios de redes de AWS.
 - Añadir laboratorios prácticos con instrucciones de limpieza de recursos.
 - Incorporar preguntas de repaso al final de cada sección.
 - Normalizar una plantilla común para nuevas lecciones.
