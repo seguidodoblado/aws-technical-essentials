@@ -27,7 +27,8 @@ El material está pensado como apoyo para:
 │   ├── 00. Visión general del curso/
 │   ├── 01. Introducción a Amazon Web Services/
 │   ├── 02. Servicios de computación en nube/
-│   └── 03. Servicios de redes de AWS/
+│   ├── 03. Servicios de redes de AWS/
+│   └── 04. Servicios de almacenamiento de AWS/
 ├── Laboratorios/
 ├── LICENSE
 └── README.md
@@ -78,6 +79,12 @@ Carpeta reservada para prácticas guiadas. La intención es añadir ejercicios p
 - [Acceso desde Internet y redes remotas](Guía%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/03.%20Acceso%20desde%20Internet%20y%20redes%20remotas.md)
 - [Network Access Control List (NACL)](Guía%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/04.%20Network%20Access%20Control%20List%20%28NACL%29.md)
 - [Security Groups](Guía%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/05.%20Security%20Groups.md)
+- [Seguridad en múltiples capas](Guía%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/06.%20Seguridad%20en%20múltiples%20capas.md)
+
+### 04. Servicios de almacenamiento de AWS
+
+- [Objetivos](Guía%20del%20estudiante/04.%20Servicios%20de%20almacenamiento%20de%20AWS/00.%20Objetivos.md)
+- [Tipos de almacenamiento](Guía%20del%20estudiante/04.%20Servicios%20de%20almacenamiento%20de%20AWS/01.%20Tipos%20de%20almacenamiento.md)
 
 ---
 
@@ -91,6 +98,7 @@ El proyecto está en desarrollo y se está construyendo módulo a módulo.
 | Introducción a AWS | En progreso |
 | Servicios de computación | En progreso |
 | Servicios de redes | Iniciado |
+| Servicios de almacenamiento | Iniciado |
 | Laboratorios | Pendiente |
 
 ---
