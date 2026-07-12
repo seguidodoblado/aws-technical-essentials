@@ -85,6 +85,10 @@ Carpeta reservada para prácticas guiadas. La intención es añadir ejercicios p
 
 - [Objetivos](Guía%20del%20estudiante/04.%20Servicios%20de%20almacenamiento%20de%20AWS/00.%20Objetivos.md)
 - [Tipos de almacenamiento](Guía%20del%20estudiante/04.%20Servicios%20de%20almacenamiento%20de%20AWS/01.%20Tipos%20de%20almacenamiento.md)
+- [Almacenamiento en bloques](Guía%20del%20estudiante/04.%20Servicios%20de%20almacenamiento%20de%20AWS/02.%20Almacenamiento%20en%20bloques.md)
+- [Almacenamiento de archivos](Guía%20del%20estudiante/04.%20Servicios%20de%20almacenamiento%20de%20AWS/03.%20Almacenamiento%20de%20archivos.md)
+- [Almacenamiento de objetos](Guía%20del%20estudiante/04.%20Servicios%20de%20almacenamiento%20de%20AWS/04.%20Almacenamiento%20de%20objetos.md)
+- [Clases de almacenamiento de Amazon S3](Guía%20del%20estudiante/04.%20Servicios%20de%20almacenamiento%20de%20AWS/05.%20Clases%20de%20almacenamiento%20de%20Amazon%20S3.md)
 
 ---
 
