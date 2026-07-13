@@ -97,6 +97,10 @@ Carpeta reservada para prácticas guiadas. La intención es añadir ejercicios p
 - [Beneficios de las bases de datos en AWS](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/01.%20Beneficios%20de%20las%20bases%20de%20datos%20en%20AWS.md)
 - [Tipos de bases de datos](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/02.%20Tipos%20de%20bases%20de%20datos.md)
 - [Bases de datos relacionales](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/03.%20Bases%20de%20datos%20relacionales.md)
+- [Bases de datos administradas](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/04.%20Bases%20de%20datos%20administradas.md)
+- [Amazon Relational Database Service (Amazon RDS)](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/05.%20Amazon%20Relational%20Database%20Service%20%28Amazon%20RDS%29.md)
+- [Amazon DynamoDB](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/06.%20Amazon%20DynamoDB.md)
+- [Características de Amazon DynamoDB](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/07.%20Características%20de%20Amazon%20DynamoDB.md)
 
 ---
 
@@ -111,7 +115,7 @@ El proyecto está en desarrollo y se está construyendo módulo a módulo.
 | Servicios de computación | Completado |
 | Servicios de redes | Completado |
 | Servicios de almacenamiento | Completado |
-| Servicios de base de datos | En progreso |
+| Servicios de base de datos | Completado |
 | Laboratorios | Pendiente |
 
 ---
