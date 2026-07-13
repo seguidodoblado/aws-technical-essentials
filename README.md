@@ -28,7 +28,8 @@ El material está pensado como apoyo para:
 │   ├── 01. Introducción a Amazon Web Services/
 │   ├── 02. Servicios de computación en nube/
 │   ├── 03. Servicios de redes de AWS/
-│   └── 04. Servicios de almacenamiento de AWS/
+│   ├── 04. Servicios de almacenamiento de AWS/
+│   └── 05. Servicios de base de datos de AWS/
 ├── Laboratorios/
 ├── LICENSE
 └── README.md
@@ -103,6 +104,7 @@ El proyecto está en desarrollo y se está construyendo módulo a módulo.
 | Servicios de computación | Completado |
 | Servicios de redes | Completado |
 | Servicios de almacenamiento | Completado |
+| Servicios de base de datos | En progreso |
 | Laboratorios | Pendiente |
 
 ---
