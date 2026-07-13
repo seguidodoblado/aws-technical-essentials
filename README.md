@@ -91,6 +91,13 @@ Carpeta reservada para prácticas guiadas. La intención es añadir ejercicios p
 - [Almacenamiento de objetos](Guía%20del%20estudiante/04.%20Servicios%20de%20almacenamiento%20de%20AWS/04.%20Almacenamiento%20de%20objetos.md)
 - [Clases de almacenamiento de Amazon S3](Guía%20del%20estudiante/04.%20Servicios%20de%20almacenamiento%20de%20AWS/05.%20Clases%20de%20almacenamiento%20de%20Amazon%20S3.md)
 
+### 05. Servicios de base de datos de AWS
+
+- [Objetivos](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/00.%20Objetivos.md)
+- [Beneficios de las bases de datos en AWS](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/01.%20Beneficios%20de%20las%20bases%20de%20datos%20en%20AWS.md)
+- [Tipos de bases de datos](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/02.%20Tipos%20de%20bases%20de%20datos.md)
+- [Bases de datos relacionales](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/03.%20Bases%20de%20datos%20relacionales.md)
+
 ---
 
 ## Estado del contenido
