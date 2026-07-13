@@ -102,7 +102,7 @@ El proyecto está en desarrollo y se está construyendo módulo a módulo.
 | Introducción a AWS | Completado |
 | Servicios de computación | Completado |
 | Servicios de redes | Completado |
-| Servicios de almacenamiento | En progreso |
+| Servicios de almacenamiento | Completado |
 | Laboratorios | Pendiente |
 
 ---
