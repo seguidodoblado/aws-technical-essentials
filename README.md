@@ -23,7 +23,7 @@ El material está pensado como apoyo para:
 
 ```text
 .
-├── Guía del estudiante/
+├── 01. 🎓 Guía del estudiante/
 │   ├── 00. Visión general del curso/
 │   ├── 01. Introducción a Amazon Web Services/
 │   ├── 02. Servicios de computación en nube/
@@ -32,7 +32,9 @@ El material está pensado como apoyo para:
 │   ├── 05. Servicios de base de datos de AWS/
 │   ├── 06. Monitorización, equilibrio de carga y escalado/
 │   └── 07. Resumen del curso/
-├── Laboratorios/
+├── 02. ⚗️ Laboratorios/
+│   ├── 00. General/
+│   └── 01. Introducción a AWS Identity and Access Management/
 ├── LICENSE
 └── README.md
 ```
@@ -43,7 +45,7 @@ Contiene los módulos teóricos del curso, organizados por tema. Cada módulo in
 
 ### Laboratorios
 
-Carpeta reservada para prácticas guiadas. La intención es añadir ejercicios paso a paso que permitan reforzar los conceptos mediante el uso de servicios reales de AWS.
+Contiene las prácticas guiadas del curso. Actualmente incluye una sección general con el índice de laboratorios y la estructura inicial para el laboratorio de introducción a AWS Identity and Access Management.
 
 ---
 
@@ -51,28 +53,28 @@ Carpeta reservada para prácticas guiadas. La intención es añadir ejercicios p
 
 ### 00. Visión general del curso
 
-- [Visión general del curso](Guía%20del%20estudiante/00.%20Visión%20general%20del%20curso/00.%20Visión%20general%20del%20curso.md)
-- [Mapa del curso](Guía%20del%20estudiante/00.%20Visión%20general%20del%20curso/01.%20Mapa%20del%20curso.md)
-- [Resumen de los módulos](Guía%20del%20estudiante/00.%20Visión%20general%20del%20curso/02.%20Resumen%20de%20los%20modulos.md)
+- [Visión general del curso](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/00.%20Visión%20general%20del%20curso/00.%20Visión%20general%20del%20curso.md)
+- [Mapa del curso](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/00.%20Visión%20general%20del%20curso/01.%20Mapa%20del%20curso.md)
+- [Resumen de los módulos](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/00.%20Visión%20general%20del%20curso/02.%20Resumen%20de%20los%20modulos.md)
 
 ### 01. Introducción a Amazon Web Services
 
-- [Objetivos](Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/00.%20Objetivos.md)
-- [¿Qué es la computación en la nube?](Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/01.%20¿Qué%20es%20la%20computación%20en%20la%20nube%3F.md)
-- [Infraestructura global de AWS](Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/02.%20Infraestructura%20global%20de%20AWS.md)
-- [Gestión de los servicios de AWS](Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/03.%20Gestión%20de%20los%20servicios%20de%20AWS.md)
-- [Modelo de responsabilidad compartida de AWS](Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/04.%20Modelo%20de%20responsabilidad%20compartida%20de%20AWS.md)
-- [AWS Identity and Access Management (IAM)](Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/05.%20AWS%20Identity%20and%20Access%20Management%20%28IAM%29.md)
+- [Objetivos](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/00.%20Objetivos.md)
+- [¿Qué es la computación en la nube?](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/01.%20¿Qué%20es%20la%20computación%20en%20la%20nube%3F.md)
+- [Infraestructura global de AWS](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/02.%20Infraestructura%20global%20de%20AWS.md)
+- [Gestión de los servicios de AWS](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/03.%20Gestión%20de%20los%20servicios%20de%20AWS.md)
+- [Modelo de responsabilidad compartida de AWS](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/04.%20Modelo%20de%20responsabilidad%20compartida%20de%20AWS.md)
+- [AWS Identity and Access Management (IAM)](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/01.%20Introducción%20a%20Amazon%20Web%20Services/05.%20AWS%20Identity%20and%20Access%20Management%20%28IAM%29.md)
 
 ### 02. Servicios de computación en nube
 
-- [Objetivos](Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/00.%20Objetivos.md)
-- [Computación como servicio en AWS](Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/01.%20Computación%20como%20servicio%20en%20AWS.md)
-- [Amazon Elastic Compute Cloud (Amazon EC2)](Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/02.%20Amazon%20Elastic%20Compute%20Cloud%20%28Amazon%20EC2%29.md)
-- [Ciclo de vida de una instancia Amazon EC2](Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/03.%20Ciclo%20de%20vida%20de%20una%20instancia%20Amazon%20EC2.md)
-- [Familias de instancias de Amazon EC2](Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/04.%20Familias%20de%20instancias%20de%20Amazon%20EC2.md)
-- [Servicios de contenedores de AWS](Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/05.%20Servicios%20de%20contenedores%20de%20AWS.md)
-- [Computación sin servidor (Serverless)](Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/06.%20Computación%20sin%20servidor%20%28Serverless%29.md)
+- [Objetivos](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/00.%20Objetivos.md)
+- [Computación como servicio en AWS](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/01.%20Computación%20como%20servicio%20en%20AWS.md)
+- [Amazon Elastic Compute Cloud (Amazon EC2)](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/02.%20Amazon%20Elastic%20Compute%20Cloud%20%28Amazon%20EC2%29.md)
+- [Ciclo de vida de una instancia Amazon EC2](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/03.%20Ciclo%20de%20vida%20de%20una%20instancia%20Amazon%20EC2.md)
+- [Familias de instancias de Amazon EC2](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/04.%20Familias%20de%20instancias%20de%20Amazon%20EC2.md)
+- [Servicios de contenedores de AWS](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/05.%20Servicios%20de%20contenedores%20de%20AWS.md)
+- [Computación sin servidor (Serverless)](01.%20%F0%9F%8E%93%20Guía%20del%20estudiante/02.%20Servicios%20de%20computación%20en%20nube/06.%20Computación%20sin%20servidor%20%28Serverless%29.md)
 
 ### 03. Servicios de redes de AWS
 
@@ -131,7 +133,7 @@ El proyecto está en desarrollo y se está construyendo módulo a módulo.
 | Servicios de base de datos | Completado |
 | Monitorización, equilibrio de carga y escalado | Completado |
 | Resumen del curso | Completado |
-| Laboratorios | Pendiente |
+| Laboratorios | En progreso |
 
 ---
 
@@ -142,14 +144,14 @@ Se recomienda seguir los módulos en orden:
 1. Revisar la visión general del curso.
 2. Estudiar los conceptos introductorios de AWS.
 3. Avanzar por los servicios principales de cómputo, redes y seguridad.
-4. Completar los laboratorios cuando estén disponibles.
+4. Realizar los laboratorios prácticos conforme se vayan incorporando.
 5. Usar los resúmenes como material de repaso.
 
 ---
 
 ## Próximos pasos
 
-- Desarrollar laboratorios prácticos con instrucciones paso a paso y guía de limpieza de recursos.
+- Desarrollar los laboratorios prácticos, empezando por AWS Identity and Access Management.
 - Incorporar preguntas de repaso al final de cada sección.
 - Considerar la publicación del contenido como sitio estático con MkDocs o Docusaurus.
 
