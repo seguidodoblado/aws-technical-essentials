@@ -30,7 +30,8 @@ El material está pensado como apoyo para:
 │   ├── 03. Servicios de redes de AWS/
 │   ├── 04. Servicios de almacenamiento de AWS/
 │   ├── 05. Servicios de base de datos de AWS/
-│   └── 06. Monitorización, equilibrio de carga y escalado/
+│   ├── 06. Monitorización, equilibrio de carga y escalado/
+│   └── 07. Resumen del curso/
 ├── Laboratorios/
 ├── LICENSE
 └── README.md
@@ -110,6 +111,10 @@ Carpeta reservada para prácticas guiadas. La intención es añadir ejercicios p
 - [Escalado](Guía%20del%20estudiante/06.%20Monitorización%2C%20equilibrio%20de%20carga%20y%20escalado/02.%20Escalado.md)
 - [Equilibrio de carga](Guía%20del%20estudiante/06.%20Monitorización%2C%20equilibrio%20de%20carga%20y%20escalado/03.%20Equilibrio%20de%20carga.md)
 
+### 07. Resumen del curso
+
+- [Arquitectura de la aplicación Employee Directory](Guía%20del%20estudiante/07.%20Resumen%20del%20curso/01.%20Arquitectura%20de%20la%20aplicación%20Employee%20Directory.md)
+
 ---
 
 ## Estado del contenido
@@ -125,6 +130,7 @@ El proyecto está en desarrollo y se está construyendo módulo a módulo.
 | Servicios de almacenamiento | Completado |
 | Servicios de base de datos | Completado |
 | Monitorización, equilibrio de carga y escalado | Completado |
+| Resumen del curso | En progreso |
 | Laboratorios | Pendiente |
 
 ---
