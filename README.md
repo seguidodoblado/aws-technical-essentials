@@ -130,7 +130,7 @@ El proyecto está en desarrollo y se está construyendo módulo a módulo.
 | Servicios de almacenamiento | Completado |
 | Servicios de base de datos | Completado |
 | Monitorización, equilibrio de carga y escalado | Completado |
-| Resumen del curso | En progreso |
+| Resumen del curso | Completado |
 | Laboratorios | Pendiente |
 
 ---
@@ -147,11 +147,10 @@ Se recomienda seguir los módulos en orden:
 
 ---
 
-## Próximos pasos sugeridos
+## Próximos pasos
 
-- Añadir laboratorios prácticos con instrucciones de limpieza de recursos.
+- Desarrollar laboratorios prácticos con instrucciones paso a paso y guía de limpieza de recursos.
 - Incorporar preguntas de repaso al final de cada sección.
-- Normalizar una plantilla común para nuevas lecciones.
 - Considerar la publicación del contenido como sitio estático con MkDocs o Docusaurus.
 
 ---
