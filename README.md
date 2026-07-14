@@ -29,7 +29,8 @@ El material está pensado como apoyo para:
 │   ├── 02. Servicios de computación en nube/
 │   ├── 03. Servicios de redes de AWS/
 │   ├── 04. Servicios de almacenamiento de AWS/
-│   └── 05. Servicios de base de datos de AWS/
+│   ├── 05. Servicios de base de datos de AWS/
+│   └── 06. Monitorización, equilibrio de carga y escalado/
 ├── Laboratorios/
 ├── LICENSE
 └── README.md
@@ -102,6 +103,11 @@ Carpeta reservada para prácticas guiadas. La intención es añadir ejercicios p
 - [Amazon DynamoDB](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/06.%20Amazon%20DynamoDB.md)
 - [Características de Amazon DynamoDB](Guía%20del%20estudiante/05.%20Servicios%20de%20base%20de%20datos%20de%20AWS/07.%20Características%20de%20Amazon%20DynamoDB.md)
 
+### 06. Monitorización, equilibrio de carga y escalado
+
+- [Objetivos](Guía%20del%20estudiante/06.%20Monitorización%2C%20equilibrio%20de%20carga%20y%20escalado/00.%20Objetivos.md)
+- [Monitorización](Guía%20del%20estudiante/06.%20Monitorización%2C%20equilibrio%20de%20carga%20y%20escalado/01.%20Monitorización.md)
+
 ---
 
 ## Estado del contenido
@@ -116,6 +122,7 @@ El proyecto está en desarrollo y se está construyendo módulo a módulo.
 | Servicios de redes | Completado |
 | Servicios de almacenamiento | Completado |
 | Servicios de base de datos | Completado |
+| Monitorización, equilibrio de carga y escalado | En progreso |
 | Laboratorios | Pendiente |
 
 ---
