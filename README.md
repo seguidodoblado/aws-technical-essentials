@@ -107,6 +107,8 @@ Carpeta reservada para prácticas guiadas. La intención es añadir ejercicios p
 
 - [Objetivos](Guía%20del%20estudiante/06.%20Monitorización%2C%20equilibrio%20de%20carga%20y%20escalado/00.%20Objetivos.md)
 - [Monitorización](Guía%20del%20estudiante/06.%20Monitorización%2C%20equilibrio%20de%20carga%20y%20escalado/01.%20Monitorización.md)
+- [Escalado](Guía%20del%20estudiante/06.%20Monitorización%2C%20equilibrio%20de%20carga%20y%20escalado/02.%20Escalado.md)
+- [Equilibrio de carga](Guía%20del%20estudiante/06.%20Monitorización%2C%20equilibrio%20de%20carga%20y%20escalado/03.%20Equilibrio%20de%20carga.md)
 
 ---
 
@@ -122,7 +124,7 @@ El proyecto está en desarrollo y se está construyendo módulo a módulo.
 | Servicios de redes | Completado |
 | Servicios de almacenamiento | Completado |
 | Servicios de base de datos | Completado |
-| Monitorización, equilibrio de carga y escalado | En progreso |
+| Monitorización, equilibrio de carga y escalado | Completado |
 | Laboratorios | Pendiente |
 
 ---
