@@ -45,7 +45,7 @@ Contiene todos los módulos teóricos del curso, organizados por tema. Cada mód
 
 ### Laboratorios
 
-Contiene las prácticas guiadas del curso. Actualmente está en desarrollo e incluye una sección general con el índice de laboratorios y la estructura inicial para el laboratorio de introducción a AWS Identity and Access Management.
+Contiene las prácticas guiadas del curso. Actualmente está en desarrollo e incluye una sección general con el índice de laboratorios y el inicio del laboratorio de introducción a AWS Identity and Access Management.
 
 ---
 
@@ -57,7 +57,7 @@ Contiene las prácticas guiadas del curso. Actualmente está en desarrollo e inc
 
 - [Visión general del curso](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/00.%20Visi%C3%B3n%20general%20del%20curso/00.%20Visi%C3%B3n%20general%20del%20curso.md)
 - [Mapa del curso](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/00.%20Visi%C3%B3n%20general%20del%20curso/01.%20Mapa%20del%20curso.md)
-- [Resumen de los modulos](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/00.%20Visi%C3%B3n%20general%20del%20curso/02.%20Resumen%20de%20los%20modulos.md)
+- [Resumen de los módulos](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/00.%20Visi%C3%B3n%20general%20del%20curso/02.%20Resumen%20de%20los%20modulos.md)
 
 #### 01. Introducción a Amazon Web Services
 
@@ -82,7 +82,7 @@ Contiene las prácticas guiadas del curso. Actualmente está en desarrollo e inc
 
 - [Objetivos](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/00.%20Objetivos.md)
 - [Amazon Virtual Private Cloud (Amazon VPC)](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/01.%20Amazon%20Virtual%20Private%20Cloud%20(Amazon%20VPC).md)
-- [Classless Inte-Domain Routing (CIDR)](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/02.%20Classless%20Inte-Domain%20Routing%20(CIDR).md)
+- [Classless Inter-Domain Routing (CIDR)](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/02.%20Classless%20Inte-Domain%20Routing%20(CIDR).md)
 - [Acceso desde Internet y redes remotas](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/03.%20Acceso%20desde%20Internet%20y%20redes%20remotas.md)
 - [Network Access Control List (NACL)](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/04.%20Network%20Access%20Control%20List%20(NACL).md)
 - [Security Groups](01.%20%F0%9F%8E%93%20Gu%C3%ADa%20del%20estudiante/03.%20Servicios%20de%20redes%20de%20AWS/05.%20Security%20Groups.md)
@@ -128,13 +128,14 @@ Contiene las prácticas guiadas del curso. Actualmente está en desarrollo e inc
 
 #### 01. Introducción a AWS Identity and Access Management
 
-- Estructura creada, contenido pendiente de añadir.
+- [Introducción](02.%20%E2%9A%97%EF%B8%8F%20Laboratorios/01.%20Introducci%C3%B3n%20a%20AWS%20Identity%20and%20Access%20Management/00.%20Introducci%C3%B3n.md)
+- [Objetivos](02.%20%E2%9A%97%EF%B8%8F%20Laboratorios/01.%20Introducci%C3%B3n%20a%20AWS%20Identity%20and%20Access%20Management/01.%20Objetivos.md)
 
 ---
 
 ## Estado del contenido
 
-La guía del estudiante está completada. El trabajo actual se centra en el desarrollo de laboratorios prácticos.
+La guía del estudiante está completada. El trabajo actual se centra en desarrollar los laboratorios prácticos y ampliar el laboratorio de introducción a AWS Identity and Access Management.
 
 | Área | Estado |
 | --- | --- |
@@ -147,6 +148,7 @@ La guía del estudiante está completada. El trabajo actual se centra en el desa
 | Monitorización, equilibrio de carga y escalado | Completado |
 | Resumen del curso | Completado |
 | Laboratorios | En progreso |
+| Laboratorio de introducción a AWS Identity and Access Management | Iniciado |
 
 ---
 
@@ -164,7 +166,8 @@ Se recomienda seguir los módulos en orden:
 
 ## Próximos pasos
 
-- Desarrollar los laboratorios prácticos, empezando por AWS Identity and Access Management.
+- Completar el laboratorio de introducción a AWS Identity and Access Management.
+- Desarrollar los siguientes laboratorios prácticos del curso.
 - Añadir instrucciones paso a paso y guía de limpieza de recursos para cada laboratorio.
 - Considerar la publicación del contenido como sitio estático con MkDocs o Docusaurus.
 
