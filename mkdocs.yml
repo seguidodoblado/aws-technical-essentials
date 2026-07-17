@@ -1,0 +1,5 @@
+site_name: AWS Technical Essentials
+site_url: https://seguidodoblado.github.io/aws-technical-essentials/
+
+theme:
+  name: material
