@@ -1,0 +1,23 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos generados por MkDocs
+site/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de configuración del entorno virtual
+.pytest_cache/
+.mypy_cache/
+
+# Configuración de VS Code (opcional)
+.vscode/
+
+# Configuración de JetBrains (opcional)
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
