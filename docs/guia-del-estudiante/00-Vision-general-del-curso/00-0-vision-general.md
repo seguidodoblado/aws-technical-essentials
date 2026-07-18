@@ -10,6 +10,5 @@ Antes de comenzar con los servicios de AWS, conocerás cómo está organizado el
 
 - Mapa del curso
 - Resumen de los módulos
-- Objetivos del curso
 
 ---

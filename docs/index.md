@@ -25,39 +25,11 @@ El material está pensado como apoyo para:
 
 ---
 
-## Estructura del repositorio
-
-```text
-.
-├── guia-del-estudiante/
-│   ├── 00-Vision-general-del-curso/
-│   ├── 01-Introduccion-a-amazon-web-services/
-│   ├── 02-Servicios-de-computacion-en-la-nube/
-│   ├── 03-Servicios-de-redes-de-aws/
-│   ├── 04-Servicios-de-almacenamiento-de-aws/
-│   ├── 05-Servicios-de-base-de-datos-de-aws/
-│   ├── 06-Monitorizacion-equilibrio-de-carga-y-escalado/
-│   └── 07-Resumen-del-curso/
-├── laboratorios/
-│   ├── 00-general/
-│   └── 01-introduccion-a-aws-iam/
-├── LICENSE
-└── README.md
-```
+## Contenido disponible
 
 ### Guía del estudiante
 
 Contiene todos los módulos teóricos del curso, organizados por tema. Cada módulo incluye documentos en Markdown con explicaciones, objetivos y conceptos clave.
-
-### Laboratorios
-
-Contiene las prácticas guiadas del curso. Actualmente está en desarrollo e incluye una sección general con el índice de laboratorios y el inicio del laboratorio de introducción a AWS Identity and Access Management.
-
----
-
-## Contenido disponible
-
-### Guía del estudiante
 
 #### 00. Visión general del curso
 
@@ -127,6 +99,8 @@ Contiene las prácticas guiadas del curso. Actualmente está en desarrollo e inc
 - [Arquitectura Serverless Employee Directory](guia-del-estudiante/07-Resumen-del-curso/07-2-arquitectura-serverless-employee-directory.md)
 
 ### Laboratorios
+
+Contiene las prácticas guiadas del curso. Actualmente está en desarrollo e incluye una sección general con el índice de laboratorios y el inicio del laboratorio de introducción a AWS Identity and Access Management.
 
 #### 00. General
 
