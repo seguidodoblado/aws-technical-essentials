@@ -42,25 +42,25 @@ nav:
           - Resumen de módulos: guia-del-estudiante/00-Vision-general-del-curso/00-2-resumen-modulos.md
       - 01. Introducción a Amazon Web Services:
           - Objetivos: guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-0-objetivos.md
-          - Computación en la nube: guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-1-computacion-nube.md
-          - Infraestructura global: guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-2-infraestructura-global.md
-          - Gestión de servicios: guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-3-gestion-servicios.md
-          - Responsabilidad compartida: guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-4-responsabilidad-compartida.md
-          - IAM: guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-5-iam.md
+          - ¿Qué es la computación en la nube?: guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-1-computacion-nube.md
+          - Infraestructura global de AWS: guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-2-infraestructura-global.md
+          - Gestión de los servicios de AWS: guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-3-gestion-servicios.md
+          - Modelo de responsabilidad compartida: guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-4-responsabilidad-compartida.md
+          - AWS Identity and Access Management (IAM): guia-del-estudiante/01-Introduccion-a-amazon-web-services/01-5-iam.md
       - 02. Servicios de computación en la nube:
           - Objetivos: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-0-objetivos.md
-          - Computación como servicio: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-1-computacion-servicio.md
-          - Amazon EC2: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-2-amazon-ec2.md
-          - Ciclo de vida de EC2: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-3-ciclo-vida-ec2.md
-          - Familias de instancias: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-4-familias-ec2.md
-          - Contenedores: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-5-contenedores.md
-          - Serverless: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-6-serverless.md
+          - Computación como servicio en AWS: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-1-computacion-servicio.md
+          - Amazon Elastic Compute Cloud (Amazon EC2): guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-2-amazon-ec2.md
+          - Ciclo de vida de una instancia de Amazon EC2: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-3-ciclo-vida-ec2.md
+          - Familias de instancias de Amazon EC2: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-4-familias-ec2.md
+          - Servicios de contenedores de AWS: guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-5-contenedores.md
+          - Computación sin servidor (Serverless): guia-del-estudiante/02-Servicios-de-computacion-en-la-nube/02-6-serverless.md
       - 03. Servicios de redes de AWS:
           - Objetivos: guia-del-estudiante/03-Servicios-de-redes-de-aws/03-0-objetivos.md
-          - Amazon VPC: guia-del-estudiante/03-Servicios-de-redes-de-aws/03-1-amazon-vpc.md
-          - CIDR: guia-del-estudiante/03-Servicios-de-redes-de-aws/03-2-cidr.md
+          - Amazon Virtual Private Cloud (Amazon VPC): guia-del-estudiante/03-Servicios-de-redes-de-aws/03-1-amazon-vpc.md
+          - Classless Inter-Domain Routing (CIDR): guia-del-estudiante/03-Servicios-de-redes-de-aws/03-2-cidr.md
           - Acceso desde Internet y redes remotas: guia-del-estudiante/03-Servicios-de-redes-de-aws/03-3-acceso-internet-redes-remotas.md
-          - NACL: guia-del-estudiante/03-Servicios-de-redes-de-aws/03-4-nacl.md
+          - Network Access Control Lists (NACLs): guia-del-estudiante/03-Servicios-de-redes-de-aws/03-4-nacl.md
           - Security Groups: guia-del-estudiante/03-Servicios-de-redes-de-aws/03-5-security-groups.md
           - Seguridad en múltiples capas: guia-del-estudiante/03-Servicios-de-redes-de-aws/03-6-seguridad-multiples-capas.md
       - 04. Servicios de almacenamiento de AWS:
@@ -69,24 +69,24 @@ nav:
           - Almacenamiento en bloques: guia-del-estudiante/04-Servicios-de-almacenamiento-de-aws/04-2-almacenamiento-bloques.md
           - Almacenamiento de archivos: guia-del-estudiante/04-Servicios-de-almacenamiento-de-aws/04-3-almacenamiento-archivos.md
           - Almacenamiento de objetos: guia-del-estudiante/04-Servicios-de-almacenamiento-de-aws/04-4-almacenamiento-objetos.md
-          - Clases de Amazon S3: guia-del-estudiante/04-Servicios-de-almacenamiento-de-aws/04-5-clases-amazon-s3.md
+          - Clases de almacenamiento de Amazon S3: guia-del-estudiante/04-Servicios-de-almacenamiento-de-aws/04-5-clases-amazon-s3.md
       - 05. Servicios de base de datos de AWS:
           - Objetivos: guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-0-objetivos.md
-          - Beneficios de las bases de datos: guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-1-beneficios-bases-datos.md
+          - Beneficios de las bases de datos en AWS: guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-1-beneficios-bases-datos.md
           - Tipos de bases de datos: guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-2-tipos-bases-datos.md
           - Bases de datos relacionales: guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-3-bases-datos-relacionales.md
           - Bases de datos administradas: guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-4-bases-datos-administradas.md
-          - Amazon RDS: guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-5-amazon-rds.md
+          - Amazon Relational Database Service (Amazon RDS): guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-5-amazon-rds.md
           - Amazon DynamoDB: guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-6-amazon-dynamodb.md
-          - Características de DynamoDB: guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-7-caracteristicas-dynamodb.md
+          - Características de Amazon DynamoDB: guia-del-estudiante/05-Servicios-de-base-de-datos-de-aws/05-7-caracteristicas-dynamodb.md
       - 06. Monitorización, equilibrio de carga y escalado:
           - Objetivos: guia-del-estudiante/06-Monitorizacion-equilibrio-de-carga-y-escalado/06-0-objetivos.md
           - Monitorización: guia-del-estudiante/06-Monitorizacion-equilibrio-de-carga-y-escalado/06-1-monitorizacion.md
           - Escalado: guia-del-estudiante/06-Monitorizacion-equilibrio-de-carga-y-escalado/06-2-escalado.md
           - Equilibrio de carga: guia-del-estudiante/06-Monitorizacion-equilibrio-de-carga-y-escalado/06-3-equilibrio-carga.md
       - 07. Resumen del curso:
-          - Arquitectura Employee Directory: guia-del-estudiante/07-Resumen-del-curso/07-1-arquitectura-employee-directory.md
-          - Arquitectura serverless Employee Directory: guia-del-estudiante/07-Resumen-del-curso/07-2-arquitectura-serverless-employee-directory.md
+          - Arquitectura de la aplicación Final Employee Directory: guia-del-estudiante/07-Resumen-del-curso/07-1-arquitectura-employee-directory.md
+          - Arquitectura Serverless Employee Directory: guia-del-estudiante/07-Resumen-del-curso/07-2-arquitectura-serverless-employee-directory.md
 
   - Laboratorios:
       - General:
