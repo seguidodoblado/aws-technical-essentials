@@ -61,7 +61,7 @@ AWS proporciona dos servicios para administrar aplicaciones basadas en contenedo
          Amazon ECS                     Amazon EKS
                 │                               │
       Ejecuta y escala             Ejecuta y escala
-      aplicaciones en              aplicaciones
+      aplicaciones en              aplicaciones en
       contenedores                 Kubernetes
 ```
 

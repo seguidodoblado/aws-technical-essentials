@@ -1,4 +1,4 @@
-# Objetivos del módulo
+# Objetivos
 
 En este módulo se explorarán los siguientes servicios y conceptos:
 
