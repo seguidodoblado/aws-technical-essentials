@@ -5,7 +5,7 @@ La **computación en la nube** consiste en el suministro bajo demanda de recurso
 En lugar de adquirir y mantener infraestructura propia, los recursos se consumen como un servicio cuando son necesarios.
 
 ```text
-                    Computación en la nube
+               Computación en la nube
 
                  Recursos bajo demanda
                          │
@@ -16,7 +16,7 @@ En lugar de adquirir y mantener infraestructura propia, los recursos se consumen
         │
         ▼
  Pago únicamente por el uso realizado
- ```
+```
 
 ---
 
