@@ -151,3 +151,7 @@ Se recomienda seguir los módulos en orden:
 - Añadir instrucciones paso a paso y guía de limpieza de recursos para cada laboratorio.
 
 ---
+
+## Esto es una prueba
+
+Esto es una prueba
