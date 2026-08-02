@@ -27,3 +27,11 @@ Los **AWS SDKs** permiten integrar los servicios de AWS directamente en aplicaci
 Cada SDK proporciona bibliotecas y herramientas que simplifican el uso de las API de AWS.
 
 ---
+
+| Herramienta            | Cuándo utilizarla                        | Perfil habitual                |
+| ---------------------- | ---------------------------------------- | ------------------------------ |
+| AWS Management Console | Administración manual desde el navegador | Principiantes, administradores |
+| AWS CLI                | Automatización y scripts                 | Administradores, DevOps        |
+| AWS SDKs               | Desarrollo de aplicaciones               | Desarrolladores                |
+
+---

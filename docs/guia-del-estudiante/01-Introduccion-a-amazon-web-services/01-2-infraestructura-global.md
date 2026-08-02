@@ -44,22 +44,24 @@ AZ 1           AZ 2
 
 Las **Edge Locations** son ubicaciones distribuidas globalmente que acercan el contenido y determinados servicios de AWS a los usuarios finales.
 
-Se utilizan principalmente para reducir la latencia y acelerar la entrega de contenido mediante servicios como **Amazon CloudFront**.
+Se utilizan principalmente para reducir la latencia y acelerar la entrega de contenido mediante servicios como **Amazon CloudFront** o para responder consultas DNS con baja latencia mediante **Amazon Route 53**.
 
 Actualmente AWS dispone de cientos de Edge Locations repartidas por todo el mundo.
 
 ```text
-                         Contenido multimedia
-                                 │
-                                 ▼
-                     ┌────────────────────┐
-                     │   Edge Location     │
-                     └─────────┬──────────┘
-                               │
-        ┌──────────────────────┼──────────────────────┐
-        │                      │                      │
-        ▼                      ▼                      ▼
-   Cliente (América)     Cliente (Europa)     Cliente (Asia)
+                  Región AWS
+
+                     │
+                     │
+     ┌───────────────┼───────────────┐
+     │               │               │
+
+ Edge Location   Edge Location   Edge Location
+   (América)       (Europa)         (Asia)
+
+     │               │               │
+
+ Cliente        Cliente         Cliente
 
 Las Edge Locations se distribuyen globalmente para acercar el contenido
 a los usuarios y reducir la latencia.

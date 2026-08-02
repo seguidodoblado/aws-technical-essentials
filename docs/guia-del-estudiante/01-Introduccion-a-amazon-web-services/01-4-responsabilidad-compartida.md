@@ -53,6 +53,8 @@ Una forma sencilla de comprender este modelo es compararlo con un edificio.
 - **AWS** actúa como la empresa constructora. Es responsable de diseñar, construir y mantener el edificio para que sea seguro y estable.
 - **El cliente** alquila un apartamento dentro del edificio. A partir de ese momento, es responsable de proteger sus pertenencias y de cerrar la puerta de su vivienda.
 
+El edificio es seguro por diseño gracias a AWS, pero la seguridad del apartamento depende de cómo lo gestione el inquilino.
+
 Del mismo modo:
 
 - AWS protege la infraestructura física y lógica que soporta los servicios en la nube.
