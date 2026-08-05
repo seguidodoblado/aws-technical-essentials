@@ -32,6 +32,11 @@ theme:
         icon: material/weather-night
         name: Cambiar a modo oscuro
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Inicio: index.md
 
