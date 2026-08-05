@@ -18,6 +18,10 @@ En lugar de adquirir y mantener infraestructura propia, los recursos se consumen
  Pago únicamente por el uso realizado
 ```
 
+!!! note "Idea principal"
+
+La computación en la nube permite aprovisionar recursos informáticos bajo demanda y utilizarlos únicamente cuando son necesarios, pagando solo por el consumo realizado.
+
 ---
 
 ## Modelos de consumo
